@@ -1,4 +1,5 @@
-![photo_2022-05-15_17-42-56](https://github.com/itrocket-am/itrocket-am/assets/79756157/99f1edab-b684-43a8-b601-3cb66e1cee62)
+<p align="center"><img src="https://github.com/itrocket-am/itrocket-am/assets/79756157/99f1edab-b684-43a8-b601-3cb66e1cee62" width="90%" alt="ITRocket" /></p>
+
 
 <p align="center">
   <a href="https://t.me/itrocket_en"><img src="https://brandeps.com/icon-download/T/Telegram-icon-vector-05.svg" width="64" height="64" alt="Telegram" /></a>
