@@ -1,15 +1,5 @@
 <p align="center"><img src="https://github.com/itrocket-am/itrocket-am/assets/79756157/99f1edab-b684-43a8-b601-3cb66e1cee62" alt="ITRocket" /></p>
 
-
-<p align="center">
-  <a href="https://t.me/itrocket_en"><img src="https://brandeps.com/icon-download/T/Telegram-icon-vector-05.svg" width="64" height="64" alt="Telegram" /></a>
-  &nbsp; &nbsp;
-  <a href="https://twitter.com/itrocket_team"><img src="https://brandeps.com/icon-download/T/Twitter-icon-vector-03.svg" width="64" height="64" alt="Twitter"/></a>
-  &nbsp; &nbsp;
-    <a href="https://itrocket.net"><img src="https://brandeps.com/icon-download/G/Globe-icon-vector-09.svg" width="64" alt="Website" /></a>
-  &nbsp; &nbsp;
-</p>
-
 ## <img src="https://itrocket.net//whiteLogoCrop.ico" style="vertical-align: middle;" width="27" height="27" /> About Us 
 
 ITRocket is a professional POS validator team & interchain utility provider. We support 30+ projects in various ecosystems. Our team is creating guides and developing tools for community to make node operator life easier.
@@ -44,11 +34,23 @@ Our team provides advanced on-chain tools such as:
 
 ##  💎 Our Products
 
-### 🏔️ [Interchain Utility](https://itrocket.net/)
+### 🛠️ [Interchain Utility](https://itrocket.net/)
 _Various services and goods for node operators & developers._
 
 
 ### 📈 [Guides](https://github.com/itrocket-team/testnet_guides)
 _Comprehend and easy to follow guides._
+
+##  ⭐ Follow us
+
+
+<p align="center">
+  <a href="https://linktr.ee/itrocket_team"><img src="https://brandeps.com/icon-download/T/Telegram-icon-vector-05.svg" width="64" height="64" alt="Telegram" /></a>
+  &nbsp; &nbsp;
+  <a href="https://twitter.com/itrocket_team"><img src="https://brandeps.com/icon-download/T/Twitter-icon-vector-03.svg" width="64" height="64" alt="Twitter"/></a>
+  &nbsp; &nbsp;
+    <a href="https://itrocket.net"><img src="https://brandeps.com/icon-download/G/Globe-icon-vector-09.svg" width="64" alt="Website" /></a>
+  &nbsp; &nbsp;
+</p>
 
 
