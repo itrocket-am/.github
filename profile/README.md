@@ -1,3 +1,5 @@
+![photo_2022-05-15_17-42-56](https://github.com/itrocket-am/itrocket-am/assets/79756157/99f1edab-b684-43a8-b601-3cb66e1cee62)
+
 <p align="center">
   <a href="https://t.me/itrocket_en"><img src="https://brandeps.com/icon-download/T/Telegram-icon-vector-05.svg" width="64" height="64" alt="Telegram" /></a>
   &nbsp; &nbsp;
@@ -48,15 +50,4 @@ _Various services and goods for node operators & developers._
 ### 📈 [Guides](https://github.com/itrocket-team/testnet_guides)
 _Comprehend and easy to follow guides._
 
-
-```bash
-                                         .________________________               __           __   
-                                         |   \__    ___/\______   \ ____   ____ |  | __ _____/  |_ 
-                                         |   | |    |    |       _//  _ \_/ ___\|  |/ // __ \   __\
-                                         |   | |    |    |    |   (  <_> )  \___|    <\  ___/|  |  
-                                         |___| |____|    |____|_  /\____/ \___  >__|_ \\___  >__|  
-                                                                 \/            \/     \/    \/      
-```
-
-![photo_2022-05-15_17-42-56](https://github.com/itrocket-am/itrocket-am/assets/79756157/99f1edab-b684-43a8-b601-3cb66e1cee62)
 
