@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/itrocket-am/itrocket-am/assets/79756157/99f1edab-b684-43a8-b601-3cb66e1cee62" width="90%" alt="ITRocket" /></p>
+<p align="center"><img src="https://github.com/itrocket-am/itrocket-am/assets/79756157/99f1edab-b684-43a8-b601-3cb66e1cee62" alt="ITRocket" /></p>
 
 
 <p align="center">
