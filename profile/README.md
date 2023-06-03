@@ -1,3 +1,4 @@
+![photo_2022-05-15_17-42-55](https://github.com/itrocket-am/.github/assets/79756157/fa28afaf-a60f-4e91-b02e-24b363df6673)
 
 
 ## <img src="https://itrocket.net//whiteLogoCrop.ico" style="vertical-align: middle;" width="27" height="27" /> About Us 
