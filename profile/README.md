@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/itrocket-am/itrocket-am/assets/79756157/99f1edab-b684-43a8-b601-3cb66e1cee62" alt="ITRocket" /></p>
+
 
 ## <img src="https://itrocket.net//whiteLogoCrop.ico" style="vertical-align: middle;" width="27" height="27" /> About Us 
 
