@@ -41,7 +41,7 @@ _Various services and goods for node operators & developers._
 ### 📈 [Guides](https://github.com/itrocket-team/testnet_guides)
 _Comprehend and easy to follow guides._
 
-##  ⭐ Follow us
+##  ⭐ Join our community!
 
 
 <p align="center">
